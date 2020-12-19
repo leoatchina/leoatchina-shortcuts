@@ -37,7 +37,7 @@
   },
   {
     "command": "toggleNoteList",
-    "accelerator": "Alt+Shift+A"
+    "accelerator": "Ctrl+Alt+L"
   },
   {
     "command": "toggleVisiblePanes",
