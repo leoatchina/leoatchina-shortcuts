@@ -1,0 +1,46 @@
+/** For advanced users. */
+{
+  "defaultFontFamily": {
+    "standard": null, //String - Defaults to "Times New Roman".
+    "serif": null, // String - Defaults to "Times New Roman".
+    "sansSerif": null, // String - Defaults to "Arial".
+    "monospace": null // String - Defaults to "Courier New".
+  },
+  "autoHideMenuBar": false, //Boolean - Auto hide the menu bar unless the `Alt` key is pressed. Default is false.
+
+  // Array - Search Service user can access from context menu after a range of text is selected. Each item is formatted as [caption, url]
+  "searchService": [
+    ["Search with Google", "https://google.com/search?q=%s"]
+  ],
+
+  // Custom key binding, which will override the default ones.
+  "keyBinding": {
+    "Open Folder...": "Ctrl+Alt+o",
+    "Save All...": "Ctrl+Alt+Shift+s",
+    "Code": "Ctrl+`",
+    "Always On Top": "F10",
+    "Ordered List": "Ctrl+Shift+o",
+    "Unordered List": "Ctrl+Shift+u",
+    "New Window": "Ctrl+Alt+n",
+    "New Tab": "Ctrl+Alt+t",
+    "Insert Local Images...": "Alt+Shift+i",
+    "Actual Size": "Ctrl+Shift+0",
+    "Toggle Task Status": "Alt+t",
+    "Task List": "Alt+Shift+t",
+    "Inline Math": "Alt+Shift+m",
+    "Strike": "Alt+Shift+s",
+    "Highlight": "Alt+Shift+g",
+    "Superscript": "Alt+Shift+u",
+    "Subscript": "Alt+Shift+d",
+    "Comment": "Alt+/",
+    "Link Reference": "Ctrl+Shift+r",
+    "Footnotes": "Alt+Shift+r",
+    "Reveal in Sidebar": "Ctrl+Alt+l",
+    "Open File Location...": "Ctrl+ALt+Shift+l"
+  },
+
+  "monocolorEmoji": false, //default false. Only work for Windows
+  "autoSaveTimer" : 3, // Deprecidated, Typora will do auto save automatically. default 3 minutes
+  "maxFetchCountOnFileList": 500,
+  "flags": [] // default [], append Chrome launch flags, e.g: [["disable-gpu"], ["host-rules", "MAP * 127.0.0.1"]]
+}

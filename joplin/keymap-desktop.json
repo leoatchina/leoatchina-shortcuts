@@ -1,0 +1,102 @@
+[
+  {
+    "command": "newTodo",
+    "accelerator": "Alt+Shift+T"
+  },
+  {
+    "command": "insertTemplate",
+    "accelerator": "Ctrl+Alt+Shift+I"
+  },
+  {
+    "command": "insertDateTime",
+    "accelerator": "Ctrl+Alt+Shift+T"
+  },
+  {
+    "command": "focusSearch",
+    "accelerator": "Ctrl+Shift+F"
+  },
+  {
+    "command": "focusElementSideBar",
+    "accelerator": "Alt+L"
+  },
+  {
+    "command": "focusElementNoteList",
+    "accelerator": "Alt+A"
+  },
+  {
+    "command": "focusElementNoteTitle",
+    "accelerator": "Alt+S"
+  },
+  {
+    "command": "focusElementNoteBody",
+    "accelerator": "Alt+W"
+  },
+  {
+    "command": "toggleSideBar",
+    "accelerator": "Ctrl+Shift+L"
+  },
+  {
+    "command": "toggleNoteList",
+    "accelerator": "Alt+Shift+A"
+  },
+  {
+    "command": "toggleVisiblePanes",
+    "accelerator": "Alt+Shift+W"
+  },
+  {
+    "command": "toggleExternalEditing",
+    "accelerator": "Alt+Shift+E"
+  },
+  {
+    "command": "setTags",
+    "accelerator": "Alt+D"
+  },
+  {
+    "command": "attachFile",
+    "accelerator": "Alt+Shift+D"
+  },
+  {
+    "command": "copyDevCommand",
+    "accelerator": "Ctrl+Alt+C"
+  },
+  {
+    "command": "exportPdf",
+    "accelerator": "Ctrl+Alt+Shift+P"
+  },
+  {
+    "command": "historyBackward",
+    "accelerator": "Ctrl+Alt+Left"
+  },
+  {
+    "command": "historyForward",
+    "accelerator": "Ctrl+Alt+Right"
+  },
+  {
+    "command": "newFolder",
+    "accelerator": "Ctrl+Shift+N"
+  },
+  {
+    "command": "newSubFolder",
+    "accelerator": "Alt+Shift+N"
+  },
+  {
+    "command": "print",
+    "accelerator": "Ctrl+Alt+P"
+  },
+  {
+    "command": "showNoteContentProperties",
+    "accelerator": "Ctrl+Shift+S"
+  },
+  {
+    "command": "toggleLayoutMoveMode",
+    "accelerator": "Ctrl+Alt+Shift+L"
+  },
+  {
+    "command": "toggleSidebar",
+    "accelerator": null
+  },
+  {
+    "command": "startExternalEditing",
+    "accelerator": null
+  }
+]
